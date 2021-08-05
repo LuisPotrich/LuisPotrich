@@ -1,6 +1,10 @@
 # Este perfil encontra-se em construção
 
-  <img height="180em" src="https://www.naeduc.org.ng/wp-content/uploads/2020/10/underconstruction.gif"/>
+Apenas alguns envios estão visíveis a previsão de conclusão da versão 1.0 esta para dia 29 de agosto
+
+  <a>
+    <img height="200em" align="center" src="https://www.naeduc.org.ng/wp-content/uploads/2020/10/underconstruction.gif"/>
+  </a>
 
 <!--
 **LuisPotrich/LuisPotrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +19,22 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Completar pelo site https://wakatime.com/plugins/status?onboarding=true
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luispotrich)](https://github.com/anuraghazra/github-readme-stats)
+
+
+Para destacar cada repositorio
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisPotrich&repo=LuisPotrich&theme=blue-green)]
+
+
+
+
 -->
+
+##
+A parte a seguir foi feita pela lindissima <a href="https://github.com/rafaballerini">RafaBallerini</a>.
+##
 
 
 ## Eu sou o Luis Eduardo
@@ -50,5 +69,10 @@ Here are some ideas to get you started:
  
 </div>
 
-
+##
+  
+<div>
+  
+  
+</div>
 
