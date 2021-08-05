@@ -18,13 +18,14 @@ Here are some ideas to get you started:
 -->
 
 
-## Oiii! Eu sou o Luis Eduardo
+## Eu sou o Luis Eduardo
 
  <div>
   <a href="https://github.com/LuisPotrich">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luispotrich&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luispotrich&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=luispotrich&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luispotrich&layout=compact&langs_count=10&theme=blue-green"/>
 </div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Dudu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dudu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
