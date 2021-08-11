@@ -1,0 +1,25 @@
+{
+  "type": "Assertion",
+  "id": "https://api.badgr.io/public/assertions/kqscO8AmT66DfVMFX1If6w",
+  "@context": "https://w3id.org/openbadges/v2",
+  "recipient": {
+    "type": "email",
+    "salt": "WMUvNzbnPrE1CK20",
+    "hashed": true,
+    "identity": "sha256$d58d4a684cca3c4f80d9b71151c6d1138009c1740f0348cd79ad1f35f2702eb7"
+  },
+  "badge": "https://api.badgr.io/public/badges/LbRRYqXOQIanLfV05nP8Ow",
+  "issuedOn": "2021-08-11T14:13:15.047Z",
+  "image": {
+    "id": "https://api.badgr.io/public/assertions/kqscO8AmT66DfVMFX1If6w/image"
+  },
+  "revoked": false,
+  "extensions:recipientProfile": {
+    "@context": "https://openbadgespec.org/extensions/recipientProfile/context.json",
+    "type": [
+      "Extension",
+      "extensions:RecipientProfile"
+    ],
+    "name": "Luis Eduardo Partichelli Potrich"
+  }
+}
