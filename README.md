@@ -1,6 +1,6 @@
 # Este perfil encontra-se em construção
 
-Apenas alguns envios estão visíveis a previsão de conclusão da versão 1.0 esta para dia 29 de agosto
+Apenas alguns envios estão visíveis a previsão de conclusão da versão 1.0 esta para dia 30 de agosto
 
   <a>
     <img height="200em" align="center" src="https://www.naeduc.org.ng/wp-content/uploads/2020/10/underconstruction.gif"/>
@@ -29,8 +29,10 @@ Para destacar cada repositorio
 
 
 
-
 -->
+
+<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/kqscO8AmT66DfVMFX1If6w?identity__email=dudupotrich%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/kqscO8AmT66DfVMFX1If6w/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word;margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Introduction to NoSQL Workshop</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded:</strong>11 de ago. de 2021</p><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To:</strong><span style="display: block;"> Luis Eduardo Partichelli Potrich</span></p></blockquote>
+
 
 ##
 A parte a seguir foi feita pela lindissima <a href="https://github.com/rafaballerini">RafaBallerini</a>.
