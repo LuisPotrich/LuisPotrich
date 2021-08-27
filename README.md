@@ -1,9 +1,9 @@
 # Este perfil encontra-se em construção
 
-Apenas alguns envios estão visíveis a previsão de conclusão da versão 1.0 esta para dia 30 de agosto
+Apenas alguns envios estão visíveis a previsão de conclusão da versão 1.0 esta para dia 31 de agosto
 
   <a>
-    <img height="200em" align="center" src="https://www.naeduc.org.ng/wp-content/uploads/2020/10/underconstruction.gif"/>
+    <img height="200em" align="center" src="https://github.com/LuisPotrich/LuisPotrich/blob/main/on_workgif.gif"/>
   </a>
 
 <!--
@@ -31,9 +31,20 @@ Para destacar cada repositorio
 
 -->
 
-<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/kqscO8AmT66DfVMFX1If6w?identity__email=dudupotrich%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/kqscO8AmT66DfVMFX1If6w/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word;margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Introduction to NoSQL Workshop</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded:</strong>11 de ago. de 2021</p><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To:</strong><span style="display: block;"> Luis Eduardo Partichelli Potrich</span></p></blockquote>
 
 
+<div>
+<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/kqscO8AmT66DfVMFX1If6w?identity__email=dudupotrich%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/kqscO8AmT66DfVMFX1If6w/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word;margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Introduction to NoSQL Workshop</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded:</strong>11 de ago. de 2021</p><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To:</strong><span style="display: block;"> Luis Eduardo Partichelli Potrich</span></p><p style="margin: 16px 0; padding: 0;"><a class="badgr-badge-verify" target="_blank" href="https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2FkqscO8AmT66DfVMFX1If6w%3Fidentity__email%3Ddudupotrich%2540gmail.com&amp;identity__email=dudupotrich%40gmail.com" style="box-sizing: content-box; display: flex; align-items: center; justify-content: center; margin: 0; font-size:14px; font-weight: bold; width: 48px; height: 16px; border-radius: 4px; border: solid 1px black; text-decoration: none; padding: 6px 16px; margin: 16px 0; color: black;">VERIFY</a></blockquote>
+</div>
+
+###
+
+<div>
+<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/1CMz6hzRTia5RMF0etDr-g?identity__email=dudupotrich%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/1CMz6hzRTia5RMF0etDr-g/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word;margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Implement a React Native mobile app Workshop</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded:</strong>27 de ago. de 2021</p><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To:</strong><span style="display: block;"> Luis Eduardo Partichelli Potrich</span></p><p style="margin: 16px 0; padding: 0;"><a class="badgr-badge-verify" target="_blank" href="https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2F1CMz6hzRTia5RMF0etDr-g%3Fidentity__email%3Ddudupotrich%2540gmail.com&amp;identity__email=dudupotrich%40gmail.com" style="box-sizing: content-box; display: flex; align-items: center; justify-content: center; margin: 0; font-size:14px; font-weight: bold; width: 48px; height: 16px; border-radius: 4px; border: solid 1px black; text-decoration: none; padding: 6px 16px; margin: 16px 0; color: black;">VERIFY</a></blockquote>
+</div>
+
+  
+  
 ##
 A parte a seguir foi feita pela lindissima <a href="https://github.com/rafaballerini">RafaBallerini</a>.
 ##
