@@ -31,7 +31,16 @@ Para destacar cada repositorio
 
 -->
 
+# Os seguintes repositórios foram feitos em algum desafio tech:
 
+| Empresa | Descrição |
+| --- | --- |
+| [Stealth_ag](https://github.com/LuisPotrich/Stealth_ag) | Manipulação de uma imagem feita em Python com o Jupyter Notebook com um relatório bem completo do que foi feito |
+| [Quartix](https://github.com/LuisPotrich/Quartix) | Desafio de lógica feito em Python com o Jupyter Notebook |
+
+
+
+# Emblemas recebidos:
 
 <div>
 <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/kqscO8AmT66DfVMFX1If6w?identity__email=dudupotrich%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/kqscO8AmT66DfVMFX1If6w/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word;margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Introduction to NoSQL Workshop</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded:</strong>11 de ago. de 2021</p><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To:</strong><span style="display: block;"> Luis Eduardo Partichelli Potrich</span></p><p style="margin: 16px 0; padding: 0;"><a class="badgr-badge-verify" target="_blank" href="https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2FkqscO8AmT66DfVMFX1If6w%3Fidentity__email%3Ddudupotrich%2540gmail.com&amp;identity__email=dudupotrich%40gmail.com" style="box-sizing: content-box; display: flex; align-items: center; justify-content: center; margin: 0; font-size:14px; font-weight: bold; width: 48px; height: 16px; border-radius: 4px; border: solid 1px black; text-decoration: none; padding: 6px 16px; margin: 16px 0; color: black;">VERIFY</a></blockquote>
