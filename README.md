@@ -1,6 +1,6 @@
 # Este perfil encontra-se em construção
 
-Apenas alguns envios estão visíveis a previsão de conclusão da versão 1.0 esta para dia ?? de ????????
+Apenas alguns envios estão visíveis a previsão de conclusão da versão 1.0 esta o ano atual
 
   <a>
     <img height="200em" align="center" src="https://github.com/LuisPotrich/LuisPotrich/blob/main/on_workgif.gif"/>
