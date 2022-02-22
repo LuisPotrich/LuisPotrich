@@ -31,19 +31,22 @@ Para destacar cada repositorio
 
 -->
 
-# Os seguintes repositórios foram feitos em algum desafio tech:
+# Lista de respositórios
+
+Os seguintes repositórios foram feitos em algum desafio tech:
 
 | Empresa | Descrição |
 | --- | --- |
 | [Stealth_ag](https://github.com/LuisPotrich/Stealth_ag) | Manipulação de uma imagem feita em Python com o Jupyter Notebook com um relatório bem completo do que foi feito |
 | [Quartix](https://github.com/LuisPotrich/Quartix) | Desafio de lógica feito em Python com o Jupyter Notebook |
 
-# Os seguintes repositórios foram feitos em algum desafio tech:
+O seguinte [repositório](https://github.com/LuisPotrich/university) foi criado para reunir os arquivos de programação criados durante o tempo de faculdade, a seguir estão listados os principais pontos do repositório:
 
 | Matéria | Descrição |
 | --- | --- |
 | [Controle 2](https://github.com/LuisPotrich/Controle_2) | Foi utilizado a linguagem Scilab para criação a criação de sistemas de controle PID. |
 | [Maquias Elétricas](https://github.com/LuisPotrich/Maquias_Eletricas) | Foi utilizado a linguagem Matlab para criação a criação de rotinas onde foi possível uma melhor análise do funcionamento de Motores Elétricos. |
+| [Tópico Especial: Programação Visual em Matlab](https://github.com/LuisPotrich/TE_Matlab) | Foi utilizado a linguagem Scilab para criação a criação de sistemas de controle PID. |
 
 
 
