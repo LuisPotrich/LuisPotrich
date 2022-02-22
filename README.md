@@ -38,6 +38,13 @@ Para destacar cada repositorio
 | [Stealth_ag](https://github.com/LuisPotrich/Stealth_ag) | Manipulação de uma imagem feita em Python com o Jupyter Notebook com um relatório bem completo do que foi feito |
 | [Quartix](https://github.com/LuisPotrich/Quartix) | Desafio de lógica feito em Python com o Jupyter Notebook |
 
+# Os seguintes repositórios foram feitos em algum desafio tech:
+
+| Matéria | Descrição |
+| --- | --- |
+| [Controle 2](https://github.com/LuisPotrich/Controle_2) | Foi utilizado a linguagem Scilab para criação a criação de sistemas de controle PID. |
+| [Maquias Elétricas](https://github.com/LuisPotrich/Maquias_Eletricas) | Foi utilizado a linguagem Matlab para criação a criação de rotinas onde foi possível uma melhor análise do funcionamento de Motores Elétricos. |
+
 
 
 # Emblemas recebidos:
