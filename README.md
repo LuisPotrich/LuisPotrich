@@ -44,6 +44,7 @@ O seguinte [repositório](https://github.com/LuisPotrich/university) foi criado 
 
 | Matéria | Descrição |
 | --- | --- |
+| [Inteligência Artificial](https://github.com/LuisPotrich/Inteligencia_Artificial) | Foi utilizado a linguagem Python para criação a criação de rotinas onde o intuito era aprender o funcionamento da inteligência artificial. |
 | [Controle 2](https://github.com/LuisPotrich/Controle_2) | Foi utilizado a linguagem Scilab para criação a criação de sistemas de controle PID. |
 | [Maquias Elétricas](https://github.com/LuisPotrich/Maquias_Eletricas) | Foi utilizado a linguagem Matlab para criação a criação de rotinas onde foi possível uma melhor análise do funcionamento de Motores Elétricos. |
 | [Tópico Especial: Programação Visual em Matlab](https://github.com/LuisPotrich/TE_Matlab) | Foi utilizado a linguagem Scilab para criação a criação de sistemas de controle PID. |
